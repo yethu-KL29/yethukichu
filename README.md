@@ -1,9 +1,12 @@
-[![MasterHead](https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif)] 
 <h1 align="center">Hi 👋, I'm Yethu</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.eduporium.com/wp/wp-content/uploads/2021/11/robotics-1604127951366.png">
+<p align="left">  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yethukichu&label=Profile%20views&color=0e75b6&style=flat" alt="yethukichu" /> </p>
+<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" allign="center"/> </p>
+ 
+
+
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yethukichu" alt="yethukichu" /></a> </p>
 
