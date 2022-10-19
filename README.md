@@ -40,9 +40,9 @@ hi, i'm Yethu, a passionate self-taught full stack web developer and a freelance
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   9 hrs 47 mins   ███████████████████░░░░░░   76.46 %
+javaScript   9 hrs 47 mins   ███████████████████░░░░░░   76.46 %
 HTML         1 hr 41 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-JavaScript   1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+TypeScript   1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
 Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
