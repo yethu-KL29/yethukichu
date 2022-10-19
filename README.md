@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Web Development](https://github.com/yethukichu)
 
-- 🌱 I’m currently learning **c,java,html,css,js**
+- 🌱 I’m currently learning **c,java,html,css,js,solidity,MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yethukichu](https://github.com/yethukichu)
 
