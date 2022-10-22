@@ -65,9 +65,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center">
 <a href="https://instagram.com/_.unknown.__boy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.unknown.__boy___" height="30" width="40" /></a>
 </p>
+<div>
 <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" allign="center"/> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yethukichu&label=Profile%20views&color=0e75b6&style=flat" alt="yethukichu" /> </p>
-
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yethukichu&show_icons=true&locale=en" alt="yethukichu" /></p>
  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
@@ -114,6 +115,5 @@ Chart last updated - Sat Oct 22 13:30:59 IST 2022
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yethukichu&show_icons=true&locale=en&layout=compact" alt="yethukichu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yethukichu&show_icons=true&locale=en" alt="yethukichu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yethukichu&" alt="yethukichu" /></p>
