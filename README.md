@@ -66,8 +66,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://instagram.com/_.unknown.__boy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.unknown.__boy___" height="30" width="40" /></a>
 </p>
 
-<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" allign="center"/> </p>
-<p align="center">
+
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yethukichu&show_icons=true&locale=en" alt="yethukichu" /></p>
