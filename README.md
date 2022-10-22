@@ -83,6 +83,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </div>
 
 
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
+
 
 
 
