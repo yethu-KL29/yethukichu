@@ -88,7 +88,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" allign="center"/> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yethukichu&label=Profile%20views&color=0e75b6&style=flat" alt="yethukichu" /> </p>
 
-# 🔭Actions
 
 
 
