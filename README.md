@@ -69,7 +69,37 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yethukichu&label=Profile%20views&color=0e75b6&style=flat" alt="yethukichu" /> </p>
 
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+  
+  ##### I am currently aiming to reach ELO 1500 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
 
+  ```
+  # ♟︎ Chess.com Ratings Chart #
+  
+  Blitz Rating
+ 1516.00  ┤                                             ╭╮
+ 1509.12  ┤                                             ││
+ 1502.25  ┤                                          ╭╮╭╯╰─╮
+ 1495.38  ┤                               ╭╮ ╭╮   ╭╮ │││   │                                ╭╮
+ 1488.50  ┤                               │╰╮│╰╮╭╮│╰─╯╰╯   ╰╮                          ╭╮  ╭╯╰╮     ╭╮       ╭
+ 1481.62  ┼╮       ╭╮╭╮                 ╭─╯ ╰╯ ╰╯╰╯         ╰╮╭──╮    ╭╮               │╰╮╭╯  │╭╮  ╭╯╰─╮╭╮  ╭╯
+ 1474.75  ┤╰╮╭╮   ╭╯││╰╮           ╭╮  ╭╯                    ╰╯  ╰╮╭╮╭╯│              ╭╯ ││   ╰╯╰╮╭╯   ╰╯╰╮╭╯
+ 1467.88  ┤ ╰╯╰╮╭╮│ ╰╯ │         ╭─╯╰─╮│                          ╰╯╰╯ │             ╭╯  ╰╯      ╰╯       ╰╯
+ 1461.00  ┤    ╰╯╰╯    ╰╮     ╭╮╭╯    ╰╯                               ╰╮           ╭╯
+ 1454.12  ┤             ╰╮ ╭─╮│╰╯                                       │           │
+ 1447.25  ┤              ╰─╯ ╰╯                                         │╭╮    ╭╮╭╮╭╯
+ 1440.38  ┤                                                             ╰╯│    │││││
+ 1433.50  ┤                                                               ╰╮  ╭╯╰╯╰╯
+ 1426.62  ┤                                                                │ ╭╯
+ 1419.75  ┤                                                                ╰╮│
+ 1412.88  ┤                                                                 ╰╯
+ 1406.00  ┤
+
+Chart last updated - Sat Oct 22 13:30:59 IST 2022  
+  ```
+  
 
 # 🌱Social
 
