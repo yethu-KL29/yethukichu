@@ -1,5 +1,7 @@
 
 <h3 align="center">A passionate developer from India</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00F706&center=true&vCenter=true&width=435&lines=Hola......;+I'm+Yethu+;Wish+you+a+good+day%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
 <div align="center"> 
  
 
@@ -97,8 +99,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yethukichu&show_icons=true&locale=en&layout=compact" alt="yethukichu" /></p>
 
 
 
