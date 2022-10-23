@@ -13,7 +13,7 @@
 ## Hey there 👋
 
 
-###hi, i'm Yethu, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. 
+**hi, i'm Yethu, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. 
 I started learning web development about a year ago. I started with basic HTML and CSS, and then moved on to learning JavaScript. After that, I started learning the MERN stack, which is a JavaScript-based framework for developing web applications. I also started learning about Web 3, which is a new way of developing web applications that uses blockchain technology.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yethukichu&theme=default&color=blue&style=flat&label=Profile+Views)
