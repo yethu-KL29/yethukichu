@@ -1,13 +1,12 @@
 
 <h3 align="center">A passionate developer from India</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00F706&center=true&vCenter=true&width=435&lines=Hola......;+I'm+Yethu+;Wish+you+a+good+day%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
-<div align="center"> 
+<
  
 
 <br>
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
+a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00F706&center=true&vCenter=true&width=435&lines=Hola......;+I'm+Yethu+;Wish+you+a+good+day%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
+<div align="center"> 
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
