@@ -78,10 +78,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <a href="https://github.com/yethukichu">
     <img align="center" alt="yethukichu" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethukichu&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://instagram.com/_.unknown.__boy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.unknown.__boy___" height="30" width="40" /></a>
-</p>
+
 
 
 
