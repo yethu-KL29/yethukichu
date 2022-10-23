@@ -84,8 +84,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yethukichu&show_icons=true&locale=en" alt="yethukichu" /></p>
- <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
+
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
