@@ -48,7 +48,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
 
 - 🔭 I’m currently working on [Web Development](https://github.com/yethukichu)
