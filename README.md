@@ -20,7 +20,14 @@ I started learning web development about a year ago. I started with basic HTML a
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+## About me
+🔭&nbsp;I’m currently working on **I’m currently learning Full Stack Development using MERN**
+<br/>🎓&nbsp;Graduated in **Computer Science @CEK**
+<br/>🌱&nbsp;Learning about **Web2 & Web 3**
+<br/>💬&nbsp;Ask me about ** My background and how I got into web development<br /> My experiences with different programming languages and frameworks<br /> Why I love web development and what keeps me excited about it <br />  The challenges and rewards of working in a remote environment <br /> Tips for other developers who are interested in working remotely**
+<br/>📫&nbsp;Reach me [yethukichu55@gmail.com](mailto:yethukichu55@gmail.com)
+<br/>🖥&nbsp; See my portfolio at [https://github.com/yethukichu](www.https://github.com/yethukichu)
   
 - 💼 
 - 💬 ask me about anything, i am happy to help;
