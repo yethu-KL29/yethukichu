@@ -24,10 +24,6 @@ I started learning web development about a year ago. I started with basic HTML a
 <br/>📫&nbsp;Reach me [yethukichu55@gmail.com](mailto:yethukichu55@gmail.com)
 <br/>🖥&nbsp; See my portfolio at [https://github.com/yethukichu](www.https://github.com/yethukichu)
   
-- 💼 
-- 💬 ask me about anything, i am happy to help;
-
-**languages and tools:**  
  ## Tech Stack
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular" alt="angular Badge" height="25">&nbsp;
