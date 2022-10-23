@@ -5,7 +5,7 @@
 </div>
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yethukichu" alt="yethukichu" /></a> </p>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -87,14 +87,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
- 
-# 🌱Social
 
-<div align="center">
-    <img height="150px" src="https://github-profile-trophy.vercel.app/?username=holic-x&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
-</div>
+  
 
 
 <div>
@@ -107,4 +101,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yethukichu&show_icons=true&locale=en&layout=compact" alt="yethukichu" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yethukichu&" alt="yethukichu" /></p>
+
