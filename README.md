@@ -72,19 +72,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-
-
-- 🔭 I’m currently working on [Web Development](https://github.com/yethukichu)
-
-- 🌱 I’m currently learning **BL0CK_CHAIN AND MERN**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yethukichu](https://github.com/yethukichu)
-
-- 💬 Ask me about **html,css,js,c,python,java,solidity**
-
-- 📫 How to reach me **yethukichu55@gmail.com**
-
+ <a href="https://github.com/yethukichu">
+    <img width=450 height=170 align="center" alt="yethukichu" src="https://github-readme-stats.vercel.app/api?username=yethukichu&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/yethukichu">
+    <img align="center" alt="yethukichu" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethukichu&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/_.unknown.__boy___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.unknown.__boy___" height="30" width="40" /></a>
