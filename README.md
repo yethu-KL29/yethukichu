@@ -1,5 +1,5 @@
 
-<h1 align="center">A passionate developer from India</h1>
+<h1 align="center">A Passionate Developer From India</h1>
 
 
 
