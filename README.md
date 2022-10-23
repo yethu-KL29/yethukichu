@@ -79,9 +79,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     <img align="center" alt="yethukichu" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethukichu&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 
+<br/>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yethukichu&theme=dark)](https://git.io/streak-stats)
 
 
 
