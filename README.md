@@ -81,9 +81,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   </a>
 
 <br/>
+<div allign="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yethukichu&theme=dark)](https://git.io/streak-stats)
-
+</div>
 
 
 
