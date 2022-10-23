@@ -72,6 +72,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 📈 my github stats
+<div align="center"> 
 
  <a href="https://github.com/yethukichu">
     <img width=450 height=170 align="center" alt="yethukichu" src="https://github-readme-stats.vercel.app/api?username=yethukichu&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
@@ -79,7 +80,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <a href="https://github.com/yethukichu">
     <img align="center" alt="yethukichu" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethukichu&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-
+</div>
 <br/>
 <div align="center"> 
 
