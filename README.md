@@ -43,8 +43,8 @@ I started learning web development about a year ago. I started with basic HTML a
   - React js
   - Redux
   - mongo db
-   -Solidity
-   -Web3 js
+  -Solidity
+  -Web3 js
 
 </div>
 
