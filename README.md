@@ -34,6 +34,20 @@ I started learning web development about a year ago. I started with basic HTML a
   	[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yethukichu55@gmail.com)&nbsp;
 
 </div>
+
+<div>
+
+  ## 📚 &nbsp;Currently studying
+
+  - Express js
+  - React js
+  - Redux
+  - mongo db
+   -Solidity
+   -Web3 js
+
+</div>
+
   
  ## Tech Stack
  
