@@ -36,6 +36,9 @@ I started learning web development about a year ago. I started with basic HTML a
 </div>
   
  ## Tech Stack
+ 
+ 
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular" alt="angular Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
@@ -45,9 +48,7 @@ I started learning web development about a year ago. I started with basic HTML a
 <img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva" alt="canva Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
-
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
- 
 <img src="https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart" alt="dart Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask" alt="flask Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Firebase-05122A?style=flat&logo=firebase" alt="firebase Badge" height="25">&nbsp;
