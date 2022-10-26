@@ -117,5 +117,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 
-
+![Image of me](https://github.com/WYethu/wYethu/blob/master/me.gif?raw=true)
 
