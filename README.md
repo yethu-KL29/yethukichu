@@ -25,6 +25,15 @@ I started learning web development about a year ago. I started with basic HTML a
 <br/>📫&nbsp;Reach me [yethukichu55@gmail.com]
  (mailto:yethukichu55@gmail.com)
 <br/>🖥&nbsp; See my portfolio at [https://github.com/yethukichu]**(www.https://github.com/yethukichu)
+<div>
+
+  ## 📫 &nbsp;My Contacts
+
+  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/abhijith-h-b1049b211/)](https://www.linkedin.com/in/abhijith-h-b1049b211/)&nbsp;
+  	[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhijithh496@gmail.com)&nbsp;
+
+</div>
   
  ## Tech Stack
 <img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
